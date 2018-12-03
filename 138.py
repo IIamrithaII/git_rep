@@ -1,4 +1,5 @@
 import turtle
+import random
 a=0
 while a <4 :
     if (a == 1) or (a==3):
